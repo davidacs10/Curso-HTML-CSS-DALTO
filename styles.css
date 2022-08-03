@@ -1,16 +1,12 @@
-h1{
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.contact-form{
     color: red;
-}
-
-p{
-    color: crimson;
+    font-size: 20px;
     background-color: black;
-}
-
-button{
-    color: #d12a2a;
-}
-
-input{
-    color: #050f6e;
+    width: 50vw;
+    height: 100vh;
 }
